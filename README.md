@@ -1,4 +1,4 @@
 # Hello-World
 A Hello world project
 
-P.S. hi Mr. Winikka
+(This is a very simple project for me to show you how this works
